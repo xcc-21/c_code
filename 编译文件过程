@@ -43,4 +43,4 @@ gcc -c test.s -o test.o
 ```bash
 gcc test.o -o test
 ```
-可在Linux环境
+可在Linux环
